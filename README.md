@@ -1,2 +1,2 @@
-# landvizMedia
+# LandVizMedia
 Company Directory
