@@ -1,2 +1,2 @@
 # LandVizMedia
-Company Directory
+Company Directory - initially forked from LVM
